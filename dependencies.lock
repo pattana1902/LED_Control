@@ -1,0 +1,16 @@
+dependencies:
+  LED_class:
+    component_hash: b146c9a04be0d06ad7d43a1c4ed1e7a45d8b8998b0f20252cb720bc4848c130e
+    source:
+      git: https://github.com/pattana1902/LED_Component.git
+      path: components/LED
+      type: git
+    version: 8ba90d77ac2a199733bd21e162bf9dadbfbfb680
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.4
+manifest_hash: 0220952145c561570b493c8210d3d795077435d85b83b9f15f87b787f84c53f7
+target: esp32
+version: 1.0.0
